@@ -1,0 +1,164 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+#top-section{
+    margin: 60px 50px;
+}
+.firstpic{
+    width: 600px;
+    height: auto;
+}
+.header{
+    display: flex;
+}
+.text-area{
+    margin-top: 60px;
+}
+.text-area h2{
+    font-size: 60px;
+    font-weight: 700;
+    color: #645e5e;
+    
+}
+.text-area p{
+    font-weight: 500;
+    font-size: 20px;
+    color: gray;
+    line-height: 1.5;
+}
+.text-area span{
+    color: #DC143C;
+}
+.text-area button {
+    padding: 18px 30px;
+    background-image: linear-gradient(to right, #c5536a,#DC143C);
+    border: none;
+    border-radius: 40px;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 25px;
+}
+#about-section{
+    background-image: url('../images/shapes/7.png');
+    display: flex;
+    margin-top: 60px;
+}
+.about-parts-one, .about-parts-two{
+    width: 50%;
+}
+.about-parts-one img{
+    margin-left: 140px;
+
+}
+.about-parts-two {
+    padding: 100px 150px; 
+}
+.about-parts-two h2{
+    font-size: 40px;
+    color: #645e5e;
+}
+.about-parts-two p{
+    text-align: justify;
+    font-weight: 500 ;
+    line-height: 27px;
+}
+.about-parts-two button{
+    padding: 18px 30px;
+    background-image: linear-gradient(to right, #c5536a,#DC143C);
+    border: none;
+    border-radius: 40px;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 25px;
+}
+.our-foods-text{
+    text-align: center;
+}
+.our-foods-text h2{
+    font-size: 37px;
+    color: #645e5e;
+    margin-top: 60px;
+    font-weight: 700;
+}
+.our-foods-text p{
+    width: 50%;
+    margin: 0 auto;
+    color: gray;
+    font-size: 18px;
+}
+.our-foods-item img{
+    width: 300px;
+    height: 250px;
+}
+.our-foods-item {
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: 20px 40px;
+}
+.our-food-name {
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 5px;
+    margin: 30px 40px;
+    border-radius: 20px;
+    width: 300px;
+}
+.our-food-name img{
+    border-radius: 20px;
+}
+.our-food-name h2{
+    font-size: 25px;
+    font-weight: 800;
+    color: #272525;
+}
+#subscribe{
+    margin: 80px 0px; 
+}
+.our-food-name p{
+    text-align: justify;
+}
+.subscribe-part{
+    display: flex;
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 5px;
+    margin: 30px 40px;
+    border-radius: 20px;
+    width: 86%;
+    margin: 0 auto;
+}
+.subscribe-part .subscribe-parts{
+    padding: 30px;
+    width: 28%;
+    margin: 0 auto;
+    text-align: center;
+}
+.subscribe-part .subscribe-parts h2{
+    font-size: 40px;
+    margin: 0;
+}
+.subscribe-part .subscribe-parts p{
+  font-weight: 500 ;
+}
+#footer{
+    background: #0b0d17;
+    height: 240px;
+    margin-top: 60px;
+}
+#footer div{
+    padding-top: 30px;
+}
+#footer h2{
+    text-align: center;
+}
+#footer p{
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+}
+#footer .first{
+    color: #DC143C;
+   
+}
+#footer .secound{
+    color: #5b5b5b;
+}
