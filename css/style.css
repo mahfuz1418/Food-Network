@@ -6,13 +6,15 @@
 }
 .firstpic{
     width: 600px;
-    height: auto;
+    height: 600px;
+    padding-left: 20px;
 }
 .header{
     display: flex;
 }
 .text-area{
     margin-top: 60px;
+    padding-right: 30px;
 }
 .text-area h2{
     font-size: 60px;
